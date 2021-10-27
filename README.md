@@ -18,13 +18,13 @@ Thanks For Being HERE
 
 - https://youtu.be/FEujXMl7-D4
 
-## Follow us For more Amazing Vedios
+## Follow us For more Amazing Videos
 
 `Our Youtube Channel`
 
 - https://www.youtube.com/channel/UC07K1c4xgD6x21Lak4wVuiA
 
-`Git hub Profile`
+`Github Profile`
 
 - https://github.com/jaydipvidhate
 ```
